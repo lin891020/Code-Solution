@@ -7,7 +7,7 @@ void ElementMerger(int arr[], int arrLength) {
     for (int i = 0; i < arrLength; i++) {
       arr[i] = abs(arr[i + 1] - arr[i]);
     }
-    arrLength --;
+    arrLength   --;
   }
 
   printf("%d", arr[0]);
@@ -20,5 +20,5 @@ int main(void) {
   int arrLength = sizeof(A) / sizeof(*A);
   ElementMerger(A, arrLength);
   return 0;
-    
+
 }
