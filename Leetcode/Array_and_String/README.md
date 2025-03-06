@@ -25,4 +25,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd>(or <kbd>Command</kbd> + <kbd>F</kbd> on 
 |  0135  |  [Candy](/Leetcode/Array_and_String/0135_Candy.md)  |  Greedy,Array  |  Hard  |    |
 |  0151  |  [Reverse Words in a String](/Leetcode/Array_and_String/0151_Reverse_Words_in_a_String.md)  |  Two Pointers,String  |  Medium  |    |
 |  0169  |  [Majority Element](/Leetcode/Array_and_String/0169_Majority_Element.md)  |  Array,Hash Table,Divide and Conquer,Counting,Sorting  |  Easy  |    |
-
+|  0189  |  [Rotate Array](/Leetcode/Array_and_String/0189_Rotate_Array.md)  |  `Array`,`Math`,`Two Pointers`  |  Medium  |    |
+|  0238  |  [Product of Array Except Self](/Leetcode/Array_and_String/0238_Product_of_Array_Except_Self.md)  |  `Array`,`Prefix Sum`  |  Medium  |    |
+|  0274  |  [H-Index](/Leetcode/Array_and_String/0274_H-Index.md)  |  `Array`,`Counting Sort`,`Sorting`  |  Medium  |    |
+|  0380  |  [Insert Delete GetRandom O(1)](/Leetcode/Array_and_String/0380_Insert_Delete_GetRandom_O(1).md)  |  `Design`,`Array`,`Hash Table`,`Math`,`Randomized`  |  Medium  |    |
