@@ -7,7 +7,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd>(or <kbd>Command</kbd> + <kbd>F</kbd> on 
 
 |  #  |  Solution  |  Tags  |  Difficulty  |  Remark |
 | --- | --- | --- | --- | --- |
-|  0006  |  [Zigzag Conversion](/Array_and_String/0006_Zigzag_Conversion.md)  |  `String`  |  Medium  |    |
+|  0006  |  [Zigzag Conversion](Leetcode/Array_and_String/0006_Zigzag_Conversion.mdd)  |  `String`  |  Medium  |    |
 |  0007  |  [Reverse Integer](/solution/0000-0099/0007.Reverse%20Integer/README_EN.md)  |  `Math`  |  Medium  |    |
 |  0008  |  [String to Integer (atoi)](/solution/0000-0099/0008.String%20to%20Integer%20%28atoi%29/README_EN.md)  |  `String`  |  Medium  |    |
 |  0009  |  [Palindrome Number](/solution/0000-0099/0009.Palindrome%20Number/README_EN.md)  |  `Math`  |  Easy  |    |
